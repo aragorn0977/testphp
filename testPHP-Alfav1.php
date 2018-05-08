@@ -1,4 +1,4 @@
 <?php
-echo "VERSIONE ALFA 12"
-phpinfo();
+echo "VERSIONE ALFA 12";
+#phpinfo();
 ?>
